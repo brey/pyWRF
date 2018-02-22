@@ -1,0 +1,13 @@
+name: pyWRF
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=2.7
+  - pygrib
+  - python-eccodes
+  - ffmpeg
+  - ecmwf-api-client
+  - ioam::geoviews 
+  - wrf-python  

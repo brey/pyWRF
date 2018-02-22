@@ -1,0 +1,66 @@
+# .pyc files
+*.pyc
+
+# mac files
+*.DS_Store
+
+# the output of TAT interface
+TAT/D3/
+
+# dotx files
+*.dotx
+
+# doc files
+*.doc
+
+# tif files
+*.tif
+
+# swp files
+*.swp
+
+# mp4 files
+*.mp4
+
+# zip files
+*.zip
+
+# netcdf files
+*.nc
+
+# png files
+*.png
+
+# Tide files
+*_v1
+
+# zipped files
+*.Z
+*.gz
+
+# dat files
+*.dat
+
+#ignore .jupyter chekpoints folder
+.ipynb_checkpoints/
+
+# all temp folders
+tmp/
+
+#ignore notebook output folders
+report/
+TIDES/
+BATHYMETRY/
+src/
+TAT/
+utils_old/
+Notebooks_old/
+
+# Setuptools distribution folder.
+/dist/
+
+# Build folder.
+build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
