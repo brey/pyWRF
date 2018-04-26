@@ -4,8 +4,8 @@
 # mac files
 *.DS_Store
 
-# the output of TAT interface
-TAT/D3/
+# test folder
+test/
 
 # dotx files
 *.dotx
@@ -31,9 +31,6 @@ TAT/D3/
 # png files
 *.png
 
-# Tide files
-*_v1
-
 # zipped files
 *.Z
 *.gz
@@ -46,15 +43,6 @@ TAT/D3/
 
 # all temp folders
 tmp/
-
-#ignore notebook output folders
-report/
-TIDES/
-BATHYMETRY/
-src/
-TAT/
-utils_old/
-Notebooks_old/
 
 # Setuptools distribution folder.
 /dist/
