@@ -38,6 +38,9 @@ test/
 # dat files
 *.dat
 
+# grib files
+*.grib
+
 #ignore .jupyter chekpoints folder
 .ipynb_checkpoints/
 
