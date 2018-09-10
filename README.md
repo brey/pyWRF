@@ -23,15 +23,6 @@ Open the Notebook.
 
 Make sure that the pyWRF is used in your Jupyter notebook. 
 
-## Authors
-
-* **George Breyiannis** 
-
-
-## Acknowledgments
-
-* All the people that teach me stuff.  
-
 ## License
-* The project is released under the GPL v3 license. 
+* The project is released under the EUPL v1.2 license. 
 
